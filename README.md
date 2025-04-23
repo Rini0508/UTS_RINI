@@ -1,16 +1,11 @@
-# multi_page_app
+tampilan log in
+![Image](https://github.com/user-attachments/assets/0e75295d-98a1-4f4e-8ad1-4771abf7147d)
 
-A new Flutter project.
+tampilan dashborad
+![Image](https://github.com/user-attachments/assets/e6e4cfd0-c45d-4dbe-b024-3189239f2f8b)
 
-## Getting Started
+tampilan counter -
+![Image](https://github.com/user-attachments/assets/b3bfd63e-9609-4332-bc2a-4dcda81bcab4)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+tampilan counter +
+![Image](https://github.com/user-attachments/assets/074dda5a-b241-42b7-884b-7032dbad2c41)
