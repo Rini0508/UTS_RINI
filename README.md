@@ -1,11 +1,11 @@
-tampilan log in
-![Image](https://github.com/user-attachments/assets/0e75295d-98a1-4f4e-8ad1-4771abf7147d)
+![Image](https://github.com/user-attachments/assets/bdfe8795-3044-491e-88eb-5e4c146e19d5)
+tampilan login
 
-tampilan dashborad
-![Image](https://github.com/user-attachments/assets/e6e4cfd0-c45d-4dbe-b024-3189239f2f8b)
+![Image](https://github.com/user-attachments/assets/3e5600e7-3422-4993-95dd-6ea6a46a9a27)
+tampilan dashboard
 
-tampilan counter -
-![Image](https://github.com/user-attachments/assets/b3bfd63e-9609-4332-bc2a-4dcda81bcab4)
+![Image](https://github.com/user-attachments/assets/795d5256-94d0-414a-b6da-a552315d213d)
+tampilan counter++
 
-tampilan counter +
-![Image](https://github.com/user-attachments/assets/074dda5a-b241-42b7-884b-7032dbad2c41)
+![Image](https://github.com/user-attachments/assets/eb389d58-c489-4b4a-a16e-15d2c8351762)
+tampilan counter--
